@@ -1,0 +1,15 @@
+.option-list {
+    font-family: Arial, sans-serif;
+}
+
+.option {
+    margin-bottom: 10px;
+}
+
+.option span {
+    margin-right: 10px;
+}
+
+.option input {
+    width: 50px;
+}
