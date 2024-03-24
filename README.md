@@ -1,7 +1,7 @@
 # Weird Salad frontend
 ### How to get started
 Download the project, make sure you have node installed on your machine 
-   then run:   
+   then run below in the root directory of the project in that order:   
 
     - `npm install` to install all libs.
     - `npm start` to start service.
